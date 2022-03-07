@@ -11,3 +11,4 @@ Feature: Registration
     And I confirm password "adebola2"
     And I click on signup
     Then I should be registered
+#    Then I should be registered
